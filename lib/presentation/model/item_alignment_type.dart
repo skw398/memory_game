@@ -1,0 +1,4 @@
+enum ItemAlignmentType {
+  idle,
+  active,
+}
